@@ -1,7 +1,5 @@
 ## Feature
 - Login google,facebook
-- Gợi ý theo thói quen người dùng
-- Đăng nhạp xác thực khuôn mặt
 - Quản lý đơn hàng, bán hàng
 - Thanh toán momo
 - Báo cáo, thống kê
